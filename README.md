@@ -1,6 +1,6 @@
 
 # Exploring Titanic Dataset: Data Cleaning, Feature Engineering, and In-Depth Analysis
-![titanic](titanicimage.jpg)
+![titanic](images/titanicimage.jpg)
 
 This repository contains an in-depth analysis of the Titanic dataset, exploring various aspects of the passengers' information and their survival outcomes. The project involves data cleaning, feature engineering, and data visualization to gain insights into factors influencing survival on the Titanic.
 
@@ -34,7 +34,7 @@ To explore this project, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the necessary libraries listed in the `requirements.txt` file.
-3. Navigate to the `notebooks/` directory and open the Jupyter notebooks in a compatible environment.
+3. Navigate to the directory and open the Jupyter notebooks in a compatible environment.
 4. Execute the code cells to perform the analysis step by step.
 
 ## Dependencies
@@ -71,4 +71,4 @@ Follow me on Twitter 🐦, connect with me on LinkedIn 🔗, and check out my Gi
 
 👉 GitHub: https://github.com/Isaac-Ndirangu-Muturi-749
 
-![thanks](thankyouimage.png)
+![thanks](images/thankyouimage.png)
